@@ -49,6 +49,5 @@ Para interpretar los clusters, se visualizan en un espacio reducido usando:
 
 
 ![Training and Validation Loss](images/T-SNE-Visualizaciondelentrenamiento.png)
-## Uso
 
 
