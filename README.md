@@ -35,7 +35,7 @@ Una vez obtenidos los embeddings, se aplican los siguientes algoritmos de cluste
 - **DBSCAN**: Basado en densidad, no requiere especificar el número de clusters.
 - **Agglomerative Clustering**: Crea una jerarquía de clusters basada en distancias.
 
-Podemos ver como se obtiene una imagen a partir de un Embedding
+###Podemos ver como se obtiene una imagen a partir de un Embedding
  ![Training and Validation Loss](images/perro.jpg)
 
 ## 3. Evaluación del Clustering
