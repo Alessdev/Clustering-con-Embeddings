@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto utiliza **embeddings** para mejorar el proceso de clustering en datos de alta dimensión. Los embeddings convierten datos complejos en una representación de menor dimensión, facilitando el análisis y la agrupación.
+Este proyecto utiliza **embeddings** para mejorar el proceso de clustering en datos de alta dimensión. Los embeddings se utilizan para representar datos complejos en un espacio vectorial más manejable y eficiente. En procesamiento de lenguaje natural(NLP), visión por computadora y sistemas de recomendación, facilitan la comparación, agrupamiento y análisis de datos. También se aplican en clustering, reducción de dimensionalidad y generación de contenidos, mejorando la precisión y comprensión en diversas aplicaciones.
 
 ## 1. Obtención de Embeddings
 
@@ -46,7 +46,9 @@ Para evaluar la calidad del clustering, se utilizan métodos como:
 Para interpretar los clusters, se visualizan en un espacio reducido usando:
 - **t-SNE**: Técnica que ayuda a visualizar clusters en 2D o 3D preservando las distancias locales.
 - **UMAP**: Técnica de reducción de dimensionalidad que proporciona una visualización eficaz de datos en espacios reducidos.
+### T-SNE
 
+![Training and Validation Loss](images/T-SNE-Visualizaciondelentrenamiento.png)
 ## Uso
 
 Para utilizar este proyecto, sigue estos pasos:
