@@ -38,11 +38,7 @@ Una vez obtenidos los embeddings, se aplican los siguientes algoritmos de cluste
 ### Podemos ver como se obtiene una imagen a partir de un Embedding
  ![Training and Validation Loss](images/perro.jpg)
 
-## 3. Evaluación del Clustering
-
-Para evaluar la calidad del clustering, se utilizan métodos como:
-- **Silhouette Score**: Mide cuán similar es un objeto a su propio cluster en comparación con otros clusters.
-- **Elbow Method**: Determina el número óptimo de clusters observando la variación intra-cluster en función del número de clusters.
+## Muestra de varias imágenes de un dataset de razas de perros
 
 ![Training and Validation Loss](images/DataSetRazadeperros.jpg)
 ## 4. Visualización
