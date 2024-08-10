@@ -53,8 +53,4 @@ Para interpretar los clusters, se visualizan en un espacio reducido usando:
 ![Training and Validation Loss](images/T-SNE-Visualizaciondelentrenamiento.png)
 ## Uso
 
-Para utilizar este proyecto, sigue estos pasos:
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
