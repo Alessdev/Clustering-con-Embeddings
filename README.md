@@ -34,6 +34,7 @@ Una vez obtenidos los embeddings, se aplican los siguientes algoritmos de cluste
 - **K-Means**: Divide los datos en K clusters, minimizando la distancia intra-cluster.
 - **DBSCAN**: Basado en densidad, no requiere especificar el número de clusters.
 - **Agglomerative Clustering**: Crea una jerarquía de clusters basada en distancias.
+ ![Training and Validation Loss](images/perro.jpg)
 
 ## 3. Evaluación del Clustering
 
@@ -41,12 +42,13 @@ Para evaluar la calidad del clustering, se utilizan métodos como:
 - **Silhouette Score**: Mide cuán similar es un objeto a su propio cluster en comparación con otros clusters.
 - **Elbow Method**: Determina el número óptimo de clusters observando la variación intra-cluster en función del número de clusters.
 
+![Training and Validation Loss](images/DataSetRazadeperros.jpg)
 ## 4. Visualización
 
 Para interpretar los clusters, se visualizan en un espacio reducido usando:
 - **t-SNE**: Técnica que ayuda a visualizar clusters en 2D o 3D preservando las distancias locales.
 - **UMAP**: Técnica de reducción de dimensionalidad que proporciona una visualización eficaz de datos en espacios reducidos.
-### T-SNE
+
 
 ![Training and Validation Loss](images/T-SNE-Visualizaciondelentrenamiento.png)
 ## Uso
